@@ -1,7 +1,0 @@
-import {OrderModel} from './order'
-import {ResturantModel} from './resturant'
-import {UserModel} from './user'
-import {MenuModel} from './menu'
-import {ReviewModel} from './review'
-import {FoodModel} from './food'
-import {ImageModel} from './image'
